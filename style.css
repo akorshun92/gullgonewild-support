@@ -18,3 +18,4 @@ summary { cursor: pointer; font-weight: 600; }
 ul { padding-left: 20px; }
 li { margin-bottom: 8px; }
 footer { margin-top: 56px; color: #6f8799; font-size: 13px; }
+.badges img { display: block; max-width: 100%; height: auto; }
